@@ -1,12 +1,12 @@
 package latihan.operasilogika;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Implementasi operasi logika
+ */
 public class Logika {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Implementasi operasi logika
-     */
+	
 	public static void main(String[] args) {
         boolean a = true;
         boolean b = false;
